@@ -34,3 +34,11 @@ import statements: allows us to use the code that is defined somewhere else in t
 app-component: uses pascal case variable names
 
 export statements: allow the app  component to be used  by other files
+
+# adding variables 
+
+we can use the basic javascript syntax to define variables and use {var_name} in react wherever we want to use these variables.
+
+# props
+
+A prop is any data passed into a React component. React props are comparable to HTML attributes. 
